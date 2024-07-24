@@ -19,8 +19,9 @@ This project is an OCR (Optical Character Recognition) application that allows u
 
 ## 📸Screenshots
 
+<div align="center">
 <img src="Screenshots/s1.png" alt="Screenshot 1" width="200"> <img src="Screenshots/s2.png" alt="Screenshot 2" width="200"> <img src="Screenshots/s3.png" alt="Screenshot 3" width="200">
-
+</div>
 <br/>
 
 
